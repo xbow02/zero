@@ -239,7 +239,7 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[آموزش ساخت ربات ضد اسپم 
 در کانال زیر 
-👉 @TGland 👈
+👉 @teleguardian 👈
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -312,6 +312,7 @@ Only sudo users can run this command
 !bc [group_id] [text]
 !bc 123456789 Hello !
 This command will send text to [group_id]
+
 
 
 **You can use "#", "!", or "/" to begin all commands
